@@ -43,10 +43,14 @@
 </h3>
 <h1>GAME SCENES</h1>
 
-![image]![WhatsApp Image 2023-07-10 at 10 56 50](https://github.com/Pv200/Gluttonous/assets/117562053/68fdcf4b-83b6-4029-9b0c-8fb0f43d51fe)
+![image]![WhatsApp Image 2023-07-10 at 11 45 18](https://github.com/Pv200/2D-GLUTTONOUS-GAME/assets/117562053/e0838231-f658-4a5a-8d04-4043b9c94d06)
 
-![image]![WhatsApp Image 2023-07-10 at 11 45 18](https://github.com/Pv200/Gluttonous/assets/117562053/05cd6447-0aa0-468f-90fc-054a6a443626)
 
-![image]![WhatsApp Image 2023-07-10 at 11 49 27](https://github.com/Pv200/Gluttonous/assets/117562053/d4ef5f08-bd65-4a09-a4d0-5b27e512cbb5)
+![image]![WhatsApp Image 2023-07-10 at 10 56 50](https://github.com/Pv200/2D-GLUTTONOUS-GAME/assets/117562053/451f15dd-9ca2-4455-9d58-c2a1af0e851b)
 
-![image]![WhatsApp Image 2023-07-10 at 10 52 41](https://github.com/Pv200/Gluttonous/assets/117562053/20aa6c1d-fe0b-4ee3-8862-4ba1be21f006)
+
+![image]!![WhatsApp Image 2023-07-10 at 11 49 27](https://github.com/Pv200/2D-GLUTTONOUS-GAME/assets/117562053/7a6e8eb9-d09f-4c71-b713-7621d4eb1218)
+
+
+![image]![WhatsApp Image 2023-07-10 at 10 52 41](https://github.com/Pv200/2D-GLUTTONOUS-GAME/assets/117562053/b9f95d3d-d6c8-4620-a51f-86f113507f9d)
+
