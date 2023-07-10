@@ -7,7 +7,7 @@
 <h1>Requirements :- </h1>
 <h3>
       1.Clone the repository"2D-Gluttonous Game"
-      2.Install Python(2 or 3)
+      
 </h3>
 <h3>
       2.Install Python(2 or 3)
